@@ -1,3 +1,8 @@
+/*box-sizing 4all - std implementacja*/
+*{
+    box-sizing: border-box;
+}
+
 .box{
     height: 200px;
     width: 400px;
